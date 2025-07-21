@@ -7,7 +7,7 @@ A framework for building versatile AI assistants that can understand and execute
 
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Universal-AI-Assistant-Framework.git
+    git clone https://github.com/karimosman89/Universal-AI-Assistant-Framework.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
